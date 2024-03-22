@@ -6,12 +6,15 @@ hero:
   name: "My Awesome Project"
   text: "A VitePress Site"
   tagline: My great project tagline
+  image:
+    src: "./assets/logo.png"
+    alt: "Website Logo"
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: E-shop
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: Flutterfly
       link: /api-examples
 
 features:
@@ -22,4 +25,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-

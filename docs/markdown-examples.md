@@ -1,6 +1,10 @@
-# Markdown Extension Examples
+# E-shop
 
 This page demonstrates some of the built-in markdown extensions provided by VitePress.
+
+## Demo Image
+
+![An image](./assets/demo.jpg)
 
 ## Syntax Highlighting
 
