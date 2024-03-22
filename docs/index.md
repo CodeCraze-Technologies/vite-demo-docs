@@ -6,9 +6,6 @@ hero:
   name: "My Awesome Project"
   text: "A VitePress Site"
   tagline: My great project tagline
-  image:
-    src: "assets/logo.png"
-    alt: "Website Logo"
   actions:
     - theme: brand
       text: E-shop
